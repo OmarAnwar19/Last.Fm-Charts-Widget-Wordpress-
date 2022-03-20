@@ -1,21 +1,14 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: N/A
-Tags: comments, spam
+Contributors: omar.anwar
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
-
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+While creating a custom WordPress theme and website, for a music-based website, I started looking for a widget which would allow me to insert the current hot music charrts, as well as other related charts. My search came up empty, and I decided to create my own widget plugin to solve this need. This plugin, comes with a fully functional widget, which allows users to insert 
 
 A few notes about the sections above:
 
